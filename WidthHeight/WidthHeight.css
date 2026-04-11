@@ -1,0 +1,14 @@
+.main{
+   /* border: 3px solid red; */
+   border-right: 5px solid yellowgreen;
+   border-left: 5px solid red;
+   border-top: 5px solid pink;
+   border-bottom: 5px solid blue;
+
+   /* How to set width */
+   width: 100px;
+
+   /* How to set height */
+   height: 50px;
+
+}

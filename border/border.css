@@ -1,0 +1,15 @@
+.first {
+   /* border-style: solid; */
+   /* border-style: dotted; */
+   /* border-style: dashed; */
+   /* border-style: double;
+
+   border-width: 10 px;
+
+   border-color: red; */
+
+   /* Shorthand Property(in one line all the properties) */
+   border: 1px solid yellowgreen;
+
+   border-radius: 8px;
+}

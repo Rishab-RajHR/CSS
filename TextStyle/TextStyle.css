@@ -4,7 +4,59 @@
 
     /* color: aqua; */
 
-    text-align: center;
+    /* Text Align Properties */
+    /* text-align: center;
     text-align: right;
     text-align: left;  /* by default*/
+    /*text-align: justify; */
+
+
+    /* Direction Properties*/
+    /* direction: rtl; /* right to left */
+    /* direction: ltr; left to right */
+
+
+    /* Text Decoration */
+    /* text-decoration: underline; 
+    text-decoration: overline; 
+    text-decoration: none; /* by default*/
+    /* text-decoration: line-through;  */
+
+     /* Text Transform */
+     /* text-transform: capitalize;
+     text-transform: lowercase;
+     text-transform: uppercase; */
+
+
+     /* Line Height */
+     /* line-height: 80px; */
+
+
+     /* text indent */
+     /* text-indent: 80px; */
+
+     /* Letter Spacing */
+     /* letter-spacing: 10px; */
+
+     /* Word Spacing */
+     /* word-spacing: normal;  by default */
+
+     /* White space*/
+      /* white-space: nowrap;
+      white-space: pre; */
+
+      /* Writing Mode */
+      writing-mode: vertical-lr;
+      writing-mode: vertical-rl;
+
+
+      /* Text Shadow */
+      .me{
+         font-size: 40px;
+         /* text shadow*/
+         /* vertical horizontal blur color */
+         text-shadow: 3px 10px 3px red;
+      }
+
+
 }

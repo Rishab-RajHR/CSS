@@ -3,7 +3,22 @@
 }
 
 .box{
-   border: 1px solid red;
-   width: 100vw;
-   height: 100vh;
+   border: 5px solid red;
+   width: 50%; /* % unit depends on its parent element */
+   padding: 5px;
+   /* height: 100vh; */
+}
+
+.test {
+    border: 5px solid blue;
+    /* width: 70vw; */
+    height: 70vh;
+
+    /* vmin vmax */
+    /* vmin -> vh or vm mininum select */
+      width: 50vmin;
+      
+     /* vmin vmax */
+    /* vmin -> vh or vm maxmium select */
+      width: 50vmax;
 }

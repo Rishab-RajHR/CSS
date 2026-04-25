@@ -9,3 +9,7 @@
    opacity: 0.2;
    margin-bottom: 25px;
 }
+
+img:hover{
+   opacity: 0.5;
+}

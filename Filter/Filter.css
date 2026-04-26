@@ -1,0 +1,5 @@
+img {
+  /* filter: blur(5px); */
+  /* filter: brightness(20%); */
+  filter: contrast(200%);
+}

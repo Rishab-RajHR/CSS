@@ -2,6 +2,8 @@
     height: 100%;
     background-image: url('./Flag.png');
     background-repeat: no-repeat;
-    height: 110px;
-    background-position: 0px 0px;
+    /* height: 500px; */
+    height: 100px;
+    background-position: 0px -220px;
+    /* -110 -110 = -220 */
 }

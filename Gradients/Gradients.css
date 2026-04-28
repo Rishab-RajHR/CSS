@@ -7,6 +7,8 @@
     /* background-image: linear-gradient(to bottom right, green, blue); */
     /* background-image: linear-gradient(180deg, green, blue); */
 
-    // radial gradient -> eclipse shape
-    background-image: radial-gradient(green, blue, yellow);
+    /* radial gradient -> by default eclipse shape*/
+    /* background-image: radial-gradient(green, blue, yellow); */
+    /*background-image: radial-gradient(circle, green, blue, yellow); */ /* changed shape to circle */
+    background-image: radial-gradient(green 60%, blue 40%);
 }

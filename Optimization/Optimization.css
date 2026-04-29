@@ -1,0 +1,7 @@
+.overflow{
+    background-color: aqua;
+    border: 5px solid red;
+    height: 300px;
+    width: 500px;
+    overflow: hidden;
+}

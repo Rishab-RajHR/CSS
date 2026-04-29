@@ -5,6 +5,7 @@
     width: 500px;
     /* overflow: hidden; */
     /* overflow: scroll; */
-    oveflow-x: hidden;
-    overflow-y: scroll;
+    /* oveflow-x: hidden; */
+    /* overflow-y: scroll; */
+    overflow: auto;
 }

@@ -3,5 +3,8 @@
     border: 5px solid red;
     height: 300px;
     width: 500px;
-    overflow: hidden;
+    /* overflow: hidden; */
+    /* overflow: scroll; */
+    oveflow-x: hidden;
+    overflow-y: scroll;
 }

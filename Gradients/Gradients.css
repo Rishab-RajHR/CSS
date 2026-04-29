@@ -10,5 +10,10 @@
     /* radial gradient -> by default eclipse shape*/
     /* background-image: radial-gradient(green, blue, yellow); */
     /*background-image: radial-gradient(circle, green, blue, yellow); */ /* changed shape to circle */
-    background-image: radial-gradient(green 60%, blue 40%);
+    /* background-image: radial-gradient(green 60%, blue 40%); */
+
+
+    /* background-image: repeating-radial-gradient(green, blue, yellow); */
+
+    background-image: repeating-linear-gradient(green, blue, yellow);
 }

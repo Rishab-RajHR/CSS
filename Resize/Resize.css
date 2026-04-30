@@ -1,10 +1,13 @@
-textarea {
+/* textarea {
    resize: none;
-}
+} */
 .resize {
     background-color: aqua;
     border: 5px solid red;
     height: 300px;
     width: 500px;
-    oveflow: auto;
+    overflow: auto;
+    /* resize: both; */
+    /* resize: horizontal; */
+    resize: vertical;
 }

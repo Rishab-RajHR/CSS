@@ -1,7 +1,7 @@
 textarea {
    resize: none;
 }
-.overflow {
+.resize {
     background-color: aqua;
     border: 5px solid red;
     height: 300px;

@@ -1,11 +1,16 @@
 ul {
+  /* disc by default */
    /* list-style-type: disc; */
    /* list-style-type: circle; */
    list-style-type: square;
 }
 
 ol {
+  /* decimal by default */
   /* list-style-type: decimal; */
   /* list-style-type: decimal-leading-zero; */
-  list-style-type: upper-alpha;
+  /* list-style-type: upper-alpha; */
+  /* list-style-type: lower-alpha; */
+  /* list-style-type: upper-roman; */
+  list-style-type: lower-roman;
 }

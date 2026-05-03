@@ -1,0 +1,6 @@
+function {
+   background-color: tomato;
+   height: 300px;
+   width: 70%;
+   width: calc(100% - 300px);
+}

@@ -1,17 +1,23 @@
+:root{
+    --first-color: tomato;
+    --second-color: aqua;
+    --third-color: blueviolet;
+}
+
 .function {
-   background-color: tomato;
+   background-color: var(--first-color);
    height: 300px;
    /* width: 70%; */
    width: calc(100% - 300px);
 }
 .function2 {
-   background-color: blueviolet;
+   background-color: var(--second-color);
    height: 300px;
    /* width: 70%; */
    width: calc(100% - 300px);
 }
 .function3 {
-   background-color: green;
+   background-color: var(--first-color);
    height: 300px;
    /* width: 70%; */
    width: calc(100% - 300px);

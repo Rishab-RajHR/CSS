@@ -5,4 +5,7 @@
 
     /* max() -> finds max value */
     width: max(50%, 500px);
+
+    /* clamp()-> range -> min, preferred value ,max */
+    width: clamp(350px, 50%, 500px);
 }

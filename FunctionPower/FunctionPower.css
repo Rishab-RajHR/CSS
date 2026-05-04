@@ -1,5 +1,8 @@
 .function{
     background-color: pink;
     /* min() -> finds min value */
-    width: min(50%, 500px);
+    /* width: min(50%, 500px); */
+
+    /* max() -> finds max value */
+    width: max(50%, 500px);
 }

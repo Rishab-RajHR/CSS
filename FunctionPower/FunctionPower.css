@@ -1,0 +1,5 @@
+.function{
+    background-color: pink;
+    /* min() -> finds min value */
+    width: min(50%, 500px);
+}

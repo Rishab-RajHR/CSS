@@ -4,6 +4,8 @@
     height: 200px;
     padding: 50px;
     border: 10px solid black;
+    /* by default */
+    box-sizing: content-box;
 }
 
 .border-box{
@@ -12,4 +14,6 @@
     height: 200px;
     padding: 50px;
     border: 10px solid black;
+    /* actual width padding border adjust */
+    box-sizing: border-box;
 }

@@ -2,10 +2,14 @@
     background-color: tomato;
     width: 500px;
     height: 200px;
+    padding: 50px;
+    border: 10px solid black;
 }
 
 .border-box{
     background-color: blueviolet;
     width: 500px;
     height: 200px;
+    padding: 50px;
+    border: 10px solid black;
 }

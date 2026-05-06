@@ -11,3 +11,12 @@ li:nth-child(3){
 li:nth-child(odd){
    color: yellow;
 }
+
+
+li:nth-child(even){
+   color: green;
+}
+
+input:focus{
+   border: 5px solid blue;
+}

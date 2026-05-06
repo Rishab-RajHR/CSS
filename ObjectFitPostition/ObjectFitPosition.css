@@ -1,3 +1,8 @@
 img{
-   border: 5px solid black;
+   border: 5px solid red;
+   width: 500px;
+   height: 400px;
+   object-fit: contain;
+   /* object-fit: cover; */
+   /* object-fit: fill; */
 }

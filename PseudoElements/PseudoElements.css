@@ -2,7 +2,7 @@
    font-size: 40px;
    color: tomato;
 } */
-p::first-line{
+/* p::first-line{
     font-size: 40px;
     color: tomato;
 }
@@ -10,4 +10,17 @@ p::first-line{
 p::selection{
     color: blueviolet;
     background-color: crimson;
+} */
+/* 
+::selection{
+    color: blueviolet;
+    background-color: tomato;
+} */
+
+/* For adding the content */
+h1::before{
+   content: "Alex ";
+}
+h1::after{
+   content: " Alex ";
 }

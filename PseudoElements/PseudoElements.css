@@ -1,4 +1,13 @@
-p::first-letter{
+/* p::first-letter{
    font-size: 40px;
    color: tomato;
+} */
+p::first-line{
+    font-size: 40px;
+    color: tomato;
+}
+
+p::selection{
+    color: blueviolet;
+    background-color: crimson;
 }

@@ -26,5 +26,6 @@ inline-block
 
 .none{
     border: 1px solid red;
-    display: none;
+    /* display: none; */
+    visibility: hidden;
 }

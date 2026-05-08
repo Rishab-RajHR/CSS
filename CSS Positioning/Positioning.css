@@ -17,6 +17,7 @@ right
    border: 1px solid black;
    padding: 30px;
    margin: 100px;
+   /* position: relative; */
 }
 
 .child1{
@@ -24,6 +25,18 @@ right
     height: 50px;
     background-color: tomato;
     display: inline-block;
+    /* relative */
+    /* position: relative;
+    top: 40px;
+    left: 20px; */
+
+    /* absolute */
+    /* position: absolute;
+    top: 50px;
+    left: 0;  */
+
+    /* fixed */
+    position: fixed;
 }
 
 .child2{

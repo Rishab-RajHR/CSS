@@ -1,0 +1,23 @@
+.parent{
+   border: 1px solid black;
+   padding: 30px;
+   margin: 100px;
+}
+
+.child1{
+    width: 60px;
+    height: 50px;
+    background-color: tomato;
+}
+
+.child1{
+    width: 60px;
+    height: 50px;
+    background-color: yellowgreen;
+}
+
+.child1{
+    width: 60px;
+    height: 50px;
+    background-color: blueviolet;
+}

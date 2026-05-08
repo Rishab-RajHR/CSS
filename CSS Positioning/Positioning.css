@@ -13,6 +13,10 @@ left
 right
 */
 
+body{
+   height: 1500px;
+}
+
 .parent{
    border: 1px solid black;
    padding: 30px;
@@ -37,6 +41,8 @@ right
 
     /* fixed */
     position: fixed;
+    bottom: 0;
+    right: 0;
 }
 
 .child2{

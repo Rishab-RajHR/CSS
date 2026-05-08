@@ -1,3 +1,18 @@
+/* position:
+1) static (by default)
+
+(positioned element)
+2) relative
+3) absolute
+4)  fixed
+
+helping properties of position
+top 
+bottom
+left 
+right
+*/
+
 .parent{
    border: 1px solid black;
    padding: 30px;

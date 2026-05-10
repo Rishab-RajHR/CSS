@@ -16,5 +16,8 @@ a:hover{
     /* transform: translateX(100px); */
     /* transform: translateY(100px); */
     /* scale */
-    transform: scale(2,3);
+    /* transform: scale(2,3); */
+    /* skew */
+    /* transform: skew(20deg, 30deg); */
+    transform: skewX(20deg);
 }

@@ -24,4 +24,5 @@ Clear
 .box3{
     border: 3px solid black;
     background-color: aqua;
+    clear: both;
 }

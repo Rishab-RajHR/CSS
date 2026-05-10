@@ -12,5 +12,7 @@ a {
 
 a:hover{
     display: inline-block;
-    transform: translate(100px);
+    /* transform: translate(100px,100px); */
+    /* transform: translateX(100px); */
+    transform: translateY(100px);
 }

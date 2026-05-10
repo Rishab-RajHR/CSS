@@ -19,5 +19,10 @@ a:hover{
     /* transform: scale(2,3); */
     /* skew */
     /* transform: skew(20deg, 30deg); */
-    transform: skewX(20deg);
+    /* transform: skewX(20deg); */
+    /* transform: skewY(20deg); */
+    /* rotate */
+    /* transform: rotate(45deg); */
+    /* transform: rotateX(45deg); */
+    transform: rotateY(45deg);
 }

@@ -14,3 +14,11 @@
     animation-name: alex;
     animation-duration: 2s;
 }
+
+.animation2{
+    background-color: tomato;
+    width: 300px;
+    height: 300px;
+    animation-name: alex;
+    animation-duration: 2s;
+}

@@ -1,0 +1,16 @@
+@keyframes alex {
+    from {
+       background-color: tomato;
+    }
+    to {
+       background-color: aqua;
+    }
+}
+
+.animation{
+    background-color: tomato;
+    width: 300px;
+    height: 300px;
+    animation-name: alex;
+    animation-duration: 2s;
+}

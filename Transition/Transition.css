@@ -6,6 +6,7 @@
    transition-property: all;
    transition-duration: 2s;
    /* transition-delay: 2s; */
+   transition-timing-function: ease-in-out;
 }
 .transition:hover{
     width: 400px;

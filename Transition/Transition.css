@@ -8,4 +8,6 @@
 }
 .transition:hover{
     width: 400px;
+    background-color: blueviolet;
+    height: 400px;
 }

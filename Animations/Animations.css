@@ -1,10 +1,26 @@
 @keyframes alex {
-    from {
+    /* from {
        background-color: tomato;
     }
     to {
        background-color: aqua;
-    }
+    } */
+     0% {
+       background-color: tomato;
+     }
+     25% {
+        width: 400px;
+     }
+     50% {
+       background-color: blueviolet;
+     }
+     75% {
+        width: 500px;
+     }
+     100% {
+       background-color: red;
+     }
+    
 }
 
 .animation{

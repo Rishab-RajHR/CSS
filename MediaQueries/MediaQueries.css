@@ -9,6 +9,7 @@
     /* mobile */
     #box-1{
        display: block;
+       background-color: blueviolet;
     }
 }
 
@@ -17,5 +18,24 @@
     /* Tablet */
     #box-2{
        display: block;
+       background-color: tomato;
+    }
+}
+
+@media screen and (min-width: 781px) and (max-width: 1440px)
+{
+    /* Laptop*/
+    #box-3{
+       display: block;
+       background-color: crimson;
+    }
+}
+
+@media screen and (min-width: 1441px) {
+
+    /* Large Screen */
+    #box-4{
+       display: block;
+       background-color: chartreuse;
     }
 }

@@ -7,7 +7,15 @@
 @media screen and (max-width: 450px)
 {
     /* mobile */
-    #box1{
+    #box-1{
+       display: block;
+    }
+}
+
+@media screen and (min-width: 451px) and (max-width: 780px)
+{
+    /* Tablet */
+    #box-2{
        display: block;
     }
 }

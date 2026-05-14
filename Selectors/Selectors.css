@@ -1,0 +1,4 @@
+/* all p tags which are in div tag */
+div p {
+   color: red;
+}

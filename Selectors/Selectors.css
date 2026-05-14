@@ -4,6 +4,11 @@
 } */
 
 /* div next to p */
-div > p {
+/* div > p {
     color: crimson;
+} */
+
+/* adjacent p to div */
+div + p {
+    color: chartreuse;
 }

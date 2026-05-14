@@ -9,6 +9,12 @@
 } */
 
 /* adjacent p to div */
-div + p {
+/* div + p {
     color: chartreuse;
+} */
+
+
+/* ~ div ke turant baad p */
+div ~ p {
+    color: darkblue;
 }

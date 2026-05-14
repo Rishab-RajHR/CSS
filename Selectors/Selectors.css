@@ -1,4 +1,9 @@
 /* all p tags which are in div tag */
-div p {
+/* div p {
    color: red;
+} */
+
+/* div next to p */
+div > p {
+    color: crimson;
 }

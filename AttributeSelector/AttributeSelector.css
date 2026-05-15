@@ -3,3 +3,9 @@ input[type="text"]
 {
     color: red;
 }
+
+a[target]{
+    color: aqua;
+    text-decoration: none;
+    font-size: 15px;
+}

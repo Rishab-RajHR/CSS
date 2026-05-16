@@ -2,4 +2,6 @@ div {
    column-count: 4;
    column-gap: 30px;
    column-rule-style: solid;
+   coumn-rule-width: 5px;
+   column-rule-color: crimson;
 }

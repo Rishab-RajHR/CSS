@@ -15,3 +15,7 @@ div {
    /* min width of column */
    column-width: 250px;
 }
+
+h1{
+   column-span: all;
+}

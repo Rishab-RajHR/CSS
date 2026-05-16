@@ -1,7 +1,14 @@
-div {
+/* div {
    column-count: 4;
    column-gap: 30px;
    column-rule-style: solid;
    coumn-rule-width: 5px;
    column-rule-color: crimson;
+} */
+
+
+div {
+   column-count: 4;
+   column-gap: 60px;
+   column-rule: 3px dotted tomato;
 }

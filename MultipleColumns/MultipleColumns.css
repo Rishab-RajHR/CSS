@@ -10,5 +10,8 @@
 div {
    column-count: 4;
    column-gap: 60px;
+   /* shorthand property of style width and color in column rule */
    column-rule: 3px dotted tomato;
+   /* min width of column */
+   column-width: 250px;
 }

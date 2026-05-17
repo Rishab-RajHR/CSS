@@ -4,7 +4,10 @@
     display: flex;
     /* by default */
     /* flex-direction: row; */
-    flex-direction: column;
+    /* flex-direction: column; */
+    /* flex-direction: row-reverse; */
+    flex-direction: col-reverse;
+
 }
 
 .flex-item{

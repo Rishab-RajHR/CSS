@@ -1,6 +1,10 @@
 .flex-container{
     border: 3px solid black;
     /* height: 50vh; */
+    display: flex;
+    /* by default */
+    /* flex-direction: row; */
+    flex-direction: column;
 }
 
 .flex-item{

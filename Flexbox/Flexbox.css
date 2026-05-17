@@ -1,6 +1,6 @@
 .flex-container{
     border: 3px solid black;
-    height: 50vh;
+    /* height: 50vh; */
 }
 
 .flex-item{
@@ -8,4 +8,20 @@
     margin: 15px;
     width: 130px;
     height: 130px;
+}
+
+#item-1 {
+     background-color: crimson;
+}
+
+#item-2 {
+     background-color: blueviolet;
+}
+
+#item-3 {
+     background-color: yellow;
+}
+
+#item-4 {
+     background-color: green;
 }

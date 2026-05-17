@@ -2,11 +2,17 @@
     border: 3px solid black;
     /* height: 50vh; */
     display: flex;
+    /* flex direction */
     /* by default */
     /* flex-direction: row; */
     /* flex-direction: column; */
     /* flex-direction: row-reverse; */
-    flex-direction: col-reverse;
+    /* flex-direction: column-reverse; */
+
+    /* flex wrap */
+    /* by default no wrap */
+    /* flex-wrap: nowrap; */
+    flex-wrap: wrap;
 
 }
 

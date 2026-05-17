@@ -12,7 +12,14 @@
     /* flex wrap */
     /* by default no wrap */
     /* flex-wrap: nowrap; */
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
+
+    /* shorthand property -> direction wrap*/
+    /* flex-flow: row-reverse wrap; */
+
+    /* justify content */
+    /* justify-content: center; */
+    justify-content: space-around;
 
 }
 

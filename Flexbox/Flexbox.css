@@ -1,6 +1,6 @@
 .flex-container{
     border: 3px solid black;
-    /* height: 50vh; */
+    height: 100vh;
     display: flex;
     /* flex direction */
     /* by default */
@@ -19,7 +19,16 @@
 
     /* justify content */
     /* justify-content: center; */
-    justify-content: space-around;
+    /* justify-content: space-around; */
+    /* justify-content: space-between; */
+    /* justify-content: space-evenly; */
+
+
+    /* align items */
+    /* align-items: center; */
+      /* align-items: flex-start; */
+      /* align-items: flex-end; */
+
 
 }
 
@@ -32,16 +41,21 @@
 
 #item-1 {
      background-color: crimson;
+     /* order: 5; */
 }
 
 #item-2 {
      background-color: blueviolet;
+     /* order: 4; */
+     /* flex-shrink: 3; */
 }
 
 #item-3 {
      background-color: yellow;
+     /* flex-grow: 3; */
 }
 
 #item-4 {
      background-color: green;
+     align-self: center;
 }

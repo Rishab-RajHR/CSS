@@ -1,0 +1,11 @@
+.flex-container{
+    border: 3px solid black;
+    height: 50vh;
+}
+
+.flex-item{
+    border: 2px solid black;
+    margin: 15px;
+    width: 130px;
+    height: 130px;
+}

@@ -4,14 +4,17 @@
     display: grid;
     /* grid-template-rows: 133px 133px 133px;
     grid-template-columns: 133px 133px 133px; */
-
+/* 
     grid-template-rows: repeat(3, 1fr);
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 1fr); */
+
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
 .item{
    background-color: chartreuse;
-   height: 130px;
-   width: 130px;
+   /* height: 130px;
+   width: 130px; */
    margin: 4px;
 }

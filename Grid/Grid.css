@@ -12,18 +12,25 @@
     grid-template-columns: repeat(3, 1fr);
     row-gap: 30px;
     column-gap: 30px;
+
+    /* justify-items: center;
+    justify-items: end; */
+    justify-items: start;
 }
 
 .item{
    background-color: chartreuse;
-   /* height: 130px;
-   width: 130px; */
+   /* height: 130px; */
+   width: 130px;
    /* margin: 4px; */
 }
 
 #item-1{
     /* grid-column-start: 1;
     grid-column-end: 4; */
-    grid-row-start: 1;
-    grid-row-end: 4;
+    /* grid-row-start: 1;
+    grid-row-end: 4; */
+    /* shorthand property */
+    /* grid-column: 1 / span 3; */
+    /* grid-row: 1 / span 3; */
 }

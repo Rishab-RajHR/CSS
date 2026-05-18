@@ -15,13 +15,19 @@
 
     /* justify-items: center;
     justify-items: end; */
-    justify-items: start;
+    /* justify-items: start; */
+
+    /* align-items: center; */
+    /* align-items: start; */
+    align-items: end;
+
+    
 }
 
 .item{
    background-color: chartreuse;
-   /* height: 130px; */
-   width: 130px;
+   height: 130px;
+   /* width: 130px; */
    /* margin: 4px; */
 }
 

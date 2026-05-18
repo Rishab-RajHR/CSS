@@ -19,7 +19,9 @@
 
     /* align-items: center; */
     /* align-items: start; */
-    align-items: end;
+    /* align-items: end; */
+
+    place-items: center;
 
     
 }
@@ -27,7 +29,7 @@
 .item{
    background-color: chartreuse;
    height: 130px;
-   /* width: 130px; */
+   width: 130px;
    /* margin: 4px; */
 }
 
@@ -39,4 +41,6 @@
     /* shorthand property */
     /* grid-column: 1 / span 3; */
     /* grid-row: 1 / span 3; */
+    /* justify-self: center; */
+     /* align-self: center; */
 }

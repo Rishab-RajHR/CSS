@@ -1,0 +1,10 @@
+.grid-container{
+    background-color: aquamarine;
+    height: 550px;
+}
+
+.item{
+   background-color: chartreuse;
+   height: 130px;
+   width: 130px;
+}

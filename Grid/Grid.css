@@ -4,12 +4,14 @@
     display: grid;
     /* grid-template-rows: 133px 133px 133px;
     grid-template-columns: 133px 133px 133px; */
-/* 
-    grid-template-rows: repeat(3, 1fr);
-    grid-template-columns: repeat(3, 1fr); */
 
-    grid-template-rows: 1fr 1fr 1fr;
-    grid-template-columns: 1fr 1fr 1fr;
+    /* grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr; */
+
+    grid-template-rows: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 30px;
+    column-gap: 30px;
 }
 
 .item{

@@ -37,3 +37,15 @@
      box-shadow: 0 0 10px white;
 }
 
+/* Home */
+
+#home{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 740px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+

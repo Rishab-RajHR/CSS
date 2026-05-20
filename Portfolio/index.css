@@ -77,3 +77,14 @@
      text-align: center;
      margin: 40px 0px;
 }
+
+
+.btn{
+    padding: 10px 35%;
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+    outline: none;
+    transition: .6s ease;
+    border-radius: 15px;
+}

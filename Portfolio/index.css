@@ -49,3 +49,11 @@
     color: white;
 }
 
+
+#home::before{
+     content: "";
+     position: absolute;
+     top: 0;
+     right: 0;
+     background: url('img/hero2.jpg') no-repeat center center/cover;
+}

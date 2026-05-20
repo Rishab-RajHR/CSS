@@ -88,3 +88,11 @@
     transition: .6s ease;
     border-radius: 15px;
 }
+
+.btn:hover{
+      cursor: pointer;
+      background-color: white;
+      color: black;
+      box-shadow: 0 0 15px white;
+      font-weight: bold;
+}

@@ -116,3 +116,10 @@
      width: 575px;
      height: 400px;
 }
+
+#intro{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    padding: 10px;
+}

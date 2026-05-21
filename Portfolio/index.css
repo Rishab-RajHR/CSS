@@ -98,3 +98,21 @@
       box-shadow: 0 0 15px white;
       font-weight: bold;
 }
+
+/* About */
+#about{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background-color: rgba(0,0,0,0.9);
+    color: white;
+}
+
+#image{
+    display: flex;
+}
+
+#image img{
+     width: 575px;
+     height: 400px;
+}

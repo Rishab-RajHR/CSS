@@ -140,3 +140,15 @@
     padding: 20px;
     box-sizing: border-box;
 }
+
+.designs{ 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.designs img{
+    width: 360px;
+    height: 240px;
+    margin: 10px;
+}

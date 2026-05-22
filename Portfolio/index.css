@@ -152,3 +152,12 @@
     height: 240px;
     margin: 10px;
 }
+
+/* Contact */
+#contact{
+     display: flex;
+     flex-direction: column;
+     background-color: rgba(0,0,0,0.9);
+     color: white;
+     padding: 20px;
+}

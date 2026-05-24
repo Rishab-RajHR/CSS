@@ -51,3 +51,21 @@ input{
     outline: none;
     border-radius: 5px;
 }
+
+button{
+   width: 60%;
+   height: 40px;
+   margin: 10px auto;
+   display: block;
+   justify-content: center;
+   color: #f2f0f0;
+   background: #2c2c6c;
+   font-size: 1rem;
+   font-weight: bold;
+   margin-top: 20px;
+   outline: none;
+   border: 2px solid #4db5ff;
+   border-radius: 5px;
+   transition: .2s ease-in;
+   cursor: pointer;
+}

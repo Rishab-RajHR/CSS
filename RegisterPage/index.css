@@ -79,5 +79,10 @@ button:hover{
     background: #4db5ff;
     border-radius: 60% / 10%;
     transform: translateY(-180px);
-    transition: -9s;
+    transition: .9s ease-in-out;
+}
+
+.login label{
+    color: #2c2c6c;
+    transform: scale(.9);
 }

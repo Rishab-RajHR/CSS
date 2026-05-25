@@ -94,3 +94,7 @@ button:hover{
 #check:checked ~ .login label{
      transform: scale(1);
 }
+
+#check:checked ~ .register label{
+     transform: scale(.6);
+}

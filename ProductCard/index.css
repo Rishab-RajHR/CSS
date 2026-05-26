@@ -27,3 +27,13 @@ body{
    padding: 10px 20px;
    box-sizing: border-box;
 }
+
+.container{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    z-index: 1;
+    cursor: pointer;
+}

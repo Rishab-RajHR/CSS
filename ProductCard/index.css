@@ -7,5 +7,12 @@
 
 body{
    font-family: 'Roboto', sans-serif;
-   background: #fff;
+   background: #e6e5e5;
+}
+
+.heading{
+   font-weight: 700;
+   padding: 10px;
+   border: 5px;
+   box-shadow: 0 10px 25px #1b1a1a;
 }

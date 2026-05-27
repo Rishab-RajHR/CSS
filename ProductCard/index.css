@@ -96,4 +96,20 @@ body{
 .container .card .image img{
      max-width: 100%;
      margin: 0px 0px 20px;
+     transition: .5s ease-in;
+}
+
+.container .card .image h2{
+    margin-bottom: 20px;
+}
+
+.container .card .details{
+    position: absolute;
+    bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    opacity: 0;
+    visibility: hidden;
 }

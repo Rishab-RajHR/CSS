@@ -110,6 +110,21 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    opacity: 0;
-    visibility: hidden;
+    /* opacity: 0;
+    visibility: hidden; */
+}
+
+.container .card .details .price, .container .card .details .brand{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container .card .details .price p{
+   text-align: center;
+   color: #fff;
+   background: #1b1a1a;
+   margin: 5px;
+   padding: 5px;
+   border-radius: 5px;
 }

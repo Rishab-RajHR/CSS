@@ -58,7 +58,7 @@ body{
 }
 
 .container .card:hover .image img{
-   transform: translate(-20px, -40px);
+   transform: translate(-20px, -40px) rotate(25deg) scale(1.2);
 }
 
 .container .card::before{

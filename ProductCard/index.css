@@ -50,6 +50,7 @@ body{
     flex-direction: column;
     background: #fff;
     box-shadow: 0 10px 25px #1b1a1a;
+    backdrop-filter: blur(15px);
 }
 
 .container .card::before{

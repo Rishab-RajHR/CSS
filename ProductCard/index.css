@@ -59,6 +59,7 @@ body{
     position: fixed;
     top: 0;
     left: 0;
+    background: rgb(14, 13, 13);
     clip-path: circle(36% at 100% 0%);
 }
 
@@ -69,5 +70,6 @@ body{
     position: fixed;
     top: 0;
     left: 0;
+    background: rgb(14, 13, 13);
     clip-path: circle(30% at 0% 100%);
 }

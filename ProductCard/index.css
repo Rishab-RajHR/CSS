@@ -53,6 +53,14 @@ body{
     backdrop-filter: blur(15px);
 }
 
+.container .card:hover .image{
+    transform: translateY(-80px);
+}
+
+.container .card:hover .image img{
+   transform: translate(-20px, -40px);
+}
+
 .container .card::before{
     content: "";
     width: 100%;

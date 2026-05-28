@@ -137,3 +137,13 @@ body{
     padding: 5px;
     border-radius: 5px;
 }
+
+.container .card .details a{
+    text-align: center;
+    color: #fff;
+    background: #1b1a1a;
+    padding: 10px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: 700;
+}

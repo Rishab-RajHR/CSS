@@ -78,8 +78,32 @@ body{
     position: fixed;
     top: 0;
     left: 0;
-    background: rgb(14, 13, 13);
     clip-path: circle(30% at 0% 100%);
+}
+
+.container .card:nth-child(1)::before
+{
+      background: rgb(14, 13, 13);
+}
+.container .card:nth-child(1)::after
+{
+      background: rgb(14, 13, 13);
+}
+.container .card:nth-child(2)::before
+{
+      background: rgb(7, 120, 176);
+}
+.container .card:nth-child(2)::after
+{
+      background: rgb(7, 120, 176);
+}
+.container .card:nth-child(3)::before
+{
+      background: rgb(3, 64, 10);
+}
+.container .card:nth-child(3)::after
+{
+      background: rgb(3, 64, 10);
 }
 
 .container .card .image{

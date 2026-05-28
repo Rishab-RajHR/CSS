@@ -128,3 +128,12 @@ body{
    padding: 5px;
    border-radius: 5px;
 }
+
+.container .card .details .brand p{
+    text-align: center;
+    color: #fff;
+    background: #1b1a1a;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}

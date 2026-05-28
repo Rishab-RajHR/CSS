@@ -13,7 +13,6 @@ body{
 .heading{
    font-weight: 700;
    padding: 10px;
-   border: 5px;
    box-shadow: 0 10px 25px #1b1a1a;
    border-radius: 5px;
 }
@@ -112,6 +111,7 @@ body{
     flex-direction: column;
     opacity: 0;
     visibility: hidden;
+    transition: .5s ease-in;
 }
 
 .container .card .details .price, .container .card .details .brand{
@@ -120,7 +120,7 @@ body{
     align-items: center;
 }
 
-.container .card .details .price p{
+.container .card .details .price p, .container .card .details .brand p{
    text-align: center;
    color: #fff;
    background: #1b1a1a;
@@ -129,14 +129,6 @@ body{
    border-radius: 5px;
 }
 
-.container .card .details .brand p{
-    text-align: center;
-    color: #fff;
-    background: #1b1a1a;
-    margin: 5px;
-    padding: 5px;
-    border-radius: 5px;
-}
 
 .container .card .details a{
     text-align: center;

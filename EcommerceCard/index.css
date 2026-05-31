@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;700&display=swap');
 
 :root{
-   --light: #1f1f38;
    --light-blue: #baded3;
    --sky-blue: #40c9a2;
    --dark: #1f1f38;
@@ -72,4 +71,11 @@ img{
 
 .product-content{
     background: var(--dark);
+    padding: 3rem 0.5rem 2rem 0.5rem;
+    cursor: pointer;
+}
+
+.product-img{
+     background: var(--dark);
+     box-shadow: 0 0  20px 10px var(--dark);
 }

@@ -53,3 +53,14 @@ img{
      opacity: 0.5;
      margin: 0.4rem 0;
 }
+
+.products{
+    background: var(--light-blue);
+    padding: 3.2rem 0;
+}
+
+.products .text-light{
+     text-align: center;
+     width: 70%;
+     margin: 0.9rem auto;
+}

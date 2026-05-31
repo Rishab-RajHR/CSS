@@ -89,5 +89,18 @@ img{
      display: flex;
      justify-content: center;
      margin-top: 1.4rem;
-     opacity: 0;
+     /* opacity: 0; */
+     transition: opacity 0.5s ease-in;
+}
+
+.btn-cart, .btn-buy{
+    background: transparent;
+    border: 1px solid black;
+    padding: 0.8 rem 0;
+    width: 125px;
+    font-family: inherit;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: none;
+    transition: all 0.5s ease-in;
 }

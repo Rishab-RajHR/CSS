@@ -64,3 +64,12 @@ img{
      width: 70%;
      margin: 0.9rem auto;
 }
+
+.product{
+    margin: 2rem;
+    position: relative;
+}
+
+.product-content{
+    background: var(--dark);
+}

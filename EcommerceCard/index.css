@@ -109,7 +109,17 @@ img{
     background: black;
     color: white;
 }
+
 .btn-cart:hover{
      background: var(--sky-blue);
      color: #fff;
+}
+
+.btn-buy{
+    background: white;
+}
+
+.btn-buy:hover{
+    background: var(--sky-blue);
+    color: #fff;
 }

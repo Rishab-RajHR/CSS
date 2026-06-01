@@ -158,3 +158,11 @@ img{
     text-decoration: line-through;
     color: var(--sky-blue);
 }
+
+.product-img img{
+    transform: transform 0.5s ease-in;
+}
+
+.product:hover .product-img img{
+    transform: scale(1.1);
+}

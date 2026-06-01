@@ -147,3 +147,14 @@ img{
      text-transform: uppercase;
      font-weight: bold;
 }
+
+.product-price{
+    padding-top: 0.6rem;
+    padding-right: 0.6rem;
+    display: inline-block;
+}
+
+.product-price:first-of-type{
+    text-decoration: line-through;
+    color: var(--sky-blue);
+}

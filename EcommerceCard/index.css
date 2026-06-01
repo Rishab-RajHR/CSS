@@ -123,3 +123,18 @@ img{
     background: var(--sky-blue);
     color: #fff;
 }
+
+.product-info{
+     background: white;
+     padding: 2rem;
+}
+
+.product-info-top{
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+}
+
+.rating span{
+     color: var(--sky-blue);
+}

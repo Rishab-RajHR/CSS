@@ -104,3 +104,12 @@ img{
     border: none;
     transition: all 0.5s ease-in;
 }
+
+.btn-cart{
+    background: black;
+    color: white;
+}
+.btn-cart:hover{
+     background: var(--sky-blue);
+     color: #fff;
+}

@@ -174,3 +174,18 @@ img{
 .product:hover .product-btns{
      opacity: 1;
 }
+
+.off-info .sm-title{
+    background: var(--sky-blue);
+    color: #fff;
+    display: inline-block;
+    padding: 0.5rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+    z-index: 1;
+    letter-spacing: 3px;
+    cursor: pointer;
+}

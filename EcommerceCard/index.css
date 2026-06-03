@@ -170,3 +170,7 @@ img{
 .product:hover .product-img{
     background: var(--sky-blue);
 }
+
+.product:hover .product-btns{
+     opacity: 1;
+}

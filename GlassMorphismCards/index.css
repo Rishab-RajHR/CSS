@@ -10,3 +10,12 @@ img{
    width: 30%;
    height: 30%;
 }
+
+body{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-wrap: wrap;
+   background-color: #020024;
+   min-height: 100vh;
+}

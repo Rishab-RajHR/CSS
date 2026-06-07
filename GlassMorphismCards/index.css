@@ -99,3 +99,8 @@ section::after{
     transform: translateY(0px);
     opacity: 1;
 }
+
+.container .card .socials li a{
+     color: #fff;
+     font-size: 24px;
+}

@@ -60,8 +60,11 @@ section::after{
     box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
     margin: 20px;
     border-radius: 12px;
+    border-top: 2px solid rgba(255, 255, 255, 0.6);
+    border-left: 2px solid rgba(255, 255, 255, 0.6);
     display: flex;
     justify-content: center;
     align-items: center;
     cursor: pointer;
+    backdrop-filter: blur(50px) saturat(180%);
 }

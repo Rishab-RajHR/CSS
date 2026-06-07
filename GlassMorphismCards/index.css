@@ -68,3 +68,12 @@ section::after{
     cursor: pointer;
     backdrop-filter: blur(50px) saturat(180%);
 }
+
+.container .card .content{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    opacity: 0.7;
+}

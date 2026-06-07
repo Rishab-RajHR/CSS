@@ -84,3 +84,17 @@ section::after{
      bottom: 50px;
      display: flex;
 }
+
+
+.container .card .socials li{
+     list-style: none;
+     margin: 0 10px;
+     transform: translateY(40px);
+     opacity: 0;
+     transition: .5s;
+}
+
+.container .card:hover .socials li{
+    transform: translateY(0px);
+    opacity: 1;
+}

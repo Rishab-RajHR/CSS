@@ -92,6 +92,7 @@ section::after{
      transform: translateY(40px);
      opacity: 0;
      transition: .5s;
+     transition-delay: calc(0.1s * var(--i));
 }
 
 .container .card:hover .socials li{

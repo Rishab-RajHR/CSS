@@ -104,3 +104,7 @@ section::after{
      color: #fff;
      font-size: 24px;
 }
+
+.container .card:hover .content{
+   opacity: 1;
+}

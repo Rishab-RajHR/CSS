@@ -110,6 +110,12 @@ section::after{
 }
 
 .container .card .content .content-details h3{
-   color: #ffffff;
+   color: #fff;
    text-transform: uppercase;
+   letter-spacing: 2px;
+   font-weight: 500;
+   font-size: 18px;
+   text-align: center;
+   margin: 20px 0 10px;
+   line-height: 1.1em;
 }

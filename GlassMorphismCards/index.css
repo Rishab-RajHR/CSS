@@ -125,3 +125,12 @@ section::after{
       font-weight: 300;
       text-transform: initial;
 }
+
+.container .card .content .img{
+     position: relative;
+     width: 150px;
+     height: 150px;
+     border-radius: 50%;
+     overflow: hidden;
+     border: 10px solid rgba(0, 0, 0, 0.25)
+}
